@@ -35,7 +35,6 @@ Resumen: Distopic es un ser interestelar que se dedica a controlar y observar el
 Autores: 
 - Jorge Jiménez
 - Carolina de la Torre
-- :woman: 
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
